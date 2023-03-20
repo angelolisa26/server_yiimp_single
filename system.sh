@@ -179,7 +179,7 @@ fi
 echo -e "$GREEN Done...$COL_RESET"
 
 echo -e " Downloading Dirty Harry YiiMP Repo...$COL_RESET"
-hide_output sudo git clone https://github.com/angelolisa26/yiimp.git  $STORAGE_ROOT/yiimp/yiimp_setup/yiimp
+hide_output sudo git clone https://github.com/angelolisa26/yiimp1.git  $STORAGE_ROOT/yiimp/yiimp_setup/yiimp
 if 
 	cd $STORAGE_ROOT/yiimp/yiimp_setup/yiimp
 	
